@@ -46,4 +46,7 @@ Planned features:
 
 
 Changelog:
-31/8/16 - Project Started. Base Class structure (empire, city, terrain, map, etc) initiated.
+31/8/16 - Project Started. Base Class structure (empire, city, terrain, etc) initiated.
+	- Map static class added. Map loaded from txt file. Display function added
+	- City.Annex function added (annex contiguous terrain that's not already part of other city).
+	
