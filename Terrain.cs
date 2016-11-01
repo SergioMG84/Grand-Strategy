@@ -17,6 +17,7 @@ namespace Civerino
 
     public class Terrain
     {
+        public bool occupied;
         public terraintype type;
         public int food
         {
@@ -70,7 +71,7 @@ namespace Civerino
 
         public Terrain(terraintype type)
         {
-            this.type = type;
+            this.type = type; occupied = false;
         }
 
     }
