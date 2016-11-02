@@ -38,6 +38,7 @@ Planned features:
 		
 	Infraestructure Control:
 		-Roadways and Railroads
+		-Airports and military bases
 		-Distribution and logistics
 		-Supply lines (in times of war)
 		
